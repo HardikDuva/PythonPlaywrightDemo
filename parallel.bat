@@ -1,0 +1,1 @@
+pytest --numprocesses 2 ./demoExample/script
